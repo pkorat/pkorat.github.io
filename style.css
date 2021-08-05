@@ -1,0 +1,20 @@
+.navigationmenu {
+    list-style-type: none;
+    padding-inline-start: 0px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbuttons {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.mainbutton {
+    float: left;
+    text-align: center;
+    background-color: turquoise;
+}

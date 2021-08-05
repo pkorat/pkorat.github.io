@@ -1,2 +1,1 @@
-# pkorat.github.io
-First GitHub page
+# Web-Design-Challenge
